@@ -1,2 +1,3 @@
 # hello-world
-A brief repository
+
+I don't know what I'm doing, but I'm doing it, so yolo
